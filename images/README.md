@@ -1,13 +1,13 @@
 ### 📸 Screenshots
 
 #### 🔖 Logo
-![logo](images/logo.png)
+صورة شعار التطبيق Login Five.
 
 #### 📝 Registration Screen (activity_main.xml)
-![activity_main](images/activity_main.png)
+صورة شاشة تسجيل مستخدم جديد.
 
 #### 🔐 Login Screen (activity_login.xml)
-![activity_login](images/activity_login.png)
+صورة شاشة تسجيل الدخول.
 
 #### 🎉 Welcome Screen (activity_welcome.xml)
-![activity_welcome](images/activity_welcome.png)
+صورة شاشة الترحيب داخل التطبيق.
